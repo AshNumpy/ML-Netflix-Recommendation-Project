@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.hizliresim.com/s6btw4k.gif" alt="community" />
+  <img src="https://raw.githubusercontent.com/AshNumpy/Netflix-Recommendation-Data-Science-Project/main/netflix.jpg" alt="community" />
 </h1>
 
 ## PURPOSE OF THE PROJECT
